@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
 
 :root {
-    --mainColor: #7a7ee3;
+    --mainColor: whitesmoke;
 }
 .hud {
   position: absolute;
@@ -12,7 +12,6 @@
   flex-direction: column;
   align-items: flex-end;
   gap: 5px;
-  /* opacity: 0.8; */
 }
 
 .b7d {
@@ -42,7 +41,7 @@
 .b7d2 {
   position: relative;
   display: block;
-  margin-top: -25px; /* Added to move b7d2 up */
+  margin-top: -25px;
 }
 
 .b7d2 p{
