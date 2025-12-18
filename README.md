@@ -34,11 +34,10 @@ This Date & Time script enhances immersion by providing players with a simple an
 الواجهة خفيفة وواضحة، مع اختيار ألوان وخطوط مرتبة تعطي شكل احترافي يناسب سيرفرات الرول بلاي. السكربت محسن للأداء وما يسبب أي ضغط على السيرفر.
 
 سهل التركيب والتعديل، ويتيح لأصحاب السيرفرات التحكم في الشكل والموقع والتنسيق بما يتناسب مع هوية السيرفر.
-<img width="186" height="124" alt="1" src="https://github.com/user-attachments/assets/ee9a1c1a-dc68-4c63-997a-df45b88fe675" />
-<img width="225" height="131" alt="2" src="https://github.com/user-attachments/assets/58ab4cbb-113a-44d3-a63a-0bc7b58bc614" />
+
 
 المميزات :
-<img width="267" height="190" alt="3" src="https://github.com/user-attachments/assets/59e5f055-43c9-4c1c-9898-22656caf0acf" />
+
 
 عرض مباشر للتاريخ والوقت داخل اللعبة
 
@@ -55,3 +54,8 @@ This Date & Time script enhances immersion by providing players with a simple an
 مناسب لسيرفرات الرول بلاي وواجهات مخصصة
 
 السكربت يضيف لمسة واقعية وجمالية للسيرفر، ويعطي اللاعبين طريقة بسيطة لمعرفة الوقت داخل اللعبة مع الحفاظ
+<img width="267" height="190" alt="3" src="https://github.com/user-attachments/assets/35d5efd6-4e2a-4fc2-a468-b8aacd5b7244" />
+<img width="225" height="131" alt="2" src="https://github.com/user-attachments/assets/717ad966-d12b-40a9-8147-c8c8f62865d1" />
+<img width="186" height="124" alt="1" src="https://github.com/user-attachments/assets/7cd71635-f5ac-432d-89b6-d8122d1d33a0" />
+
+
