@@ -1,6 +1,6 @@
 fx_version 'cerulean'
 game 'gta5'
-author '! Hub Dev'
+author 'Vortex Development  -  B7D'
 
 
 
@@ -29,4 +29,5 @@ ui_page {
 
 dependency '/assetpacks'
 dependency '/assetpacks'
+
 dependency '/assetpacks'
